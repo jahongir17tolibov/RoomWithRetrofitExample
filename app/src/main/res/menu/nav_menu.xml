@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/round_currency_bitcoin_24"
+        android:title="Cryptos" />
+
+<!--    <item-->
+<!--        android:id="@+id/for_floatingactionbar"-->
+<!--        android:title="" />-->
+
+    <item
+        android:id="@+id/secFragment"
+        android:icon="@drawable/round_fitbit_24"
+        android:title="XZn" />
+
+</menu>
